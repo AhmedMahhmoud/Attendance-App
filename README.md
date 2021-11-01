@@ -2,14 +2,14 @@
 
 ## Smart attendance The best attendance supervision solution for institutions and companies that have many branches, locations and shifts It provides a unique solution for multiple shifts and allows to change shifts and employee sites at any time for future periods, with facilities for managers to keep track of employees regularity.
 ## The Application provides many unique features, to help you simplify your work and manage your employee's working hours with minimal effort and cost.
-I Used in this app : 
-Provider for statemanegment 
-Sqflite and shared preferences for local database 
-Firebase messaging for push notifications
-Online machine learning model (used to prevent fake attendances)
-Http for api and networking requests
-Google Maps and geolocator
-Google Machine learning vision to detect faces on camera stream 
+# Used in this app : 
+# Provider for statemanegment 
+# Sqflite and shared preferences for local database 
+# Firebase messaging for push notifications
+# Online machine learning model (used to prevent fake attendances)
+# Http for api and networking requests
+# Google Maps and geolocator
+# Google Machine learning vision to detect faces on camera stream 
 ![1](https://user-images.githubusercontent.com/60745552/139692807-04300207-4e67-4835-b765-f91093c59ccb.png)
 ![2](https://user-images.githubusercontent.com/60745552/139693026-8020a3ea-25cd-4677-b72a-2f0d972794b2.jpg)
 ![3](https://user-images.githubusercontent.com/60745552/139693128-b39eb865-051a-483e-8806-60fba918efdc.jpg)
