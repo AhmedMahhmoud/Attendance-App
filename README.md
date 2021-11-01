@@ -6,6 +6,7 @@
 # Provider for statemanegment 
 # Sqflite and shared preferences for local database 
 # Firebase messaging for push notifications
+# Huawei push kit push notifications for huawei devices 
 # Online machine learning model (used to prevent fake attendances)
 # Http for api and networking requests
 # Google Maps and geolocator
