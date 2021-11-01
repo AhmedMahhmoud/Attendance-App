@@ -1,6 +1,6 @@
 # Attendance-App
+<img src=![1](https://user-images.githubusercontent.com/60745552/139692807-04300207-4e67-4835-b765-f91093c59ccb.png) alt="alt text" width="555" height="555">
 
-![1](https://user-images.githubusercontent.com/60745552/139692807-04300207-4e67-4835-b765-f91093c59ccb.png)
 ![2](https://user-images.githubusercontent.com/60745552/139693026-8020a3ea-25cd-4677-b72a-2f0d972794b2.jpg)
 ![3](https://user-images.githubusercontent.com/60745552/139693128-b39eb865-051a-483e-8806-60fba918efdc.jpg)
 ![4](https://user-images.githubusercontent.com/60745552/139693131-778be907-ee94-4c24-bea6-1dc11e83dc1f.jpg)
